@@ -1,0 +1,14 @@
+/Users/pabloycami/Projects/Calculadora/bin/Debug/net5.0/TrianguloRectangulo.deps.json
+/Users/pabloycami/Projects/Calculadora/bin/Debug/net5.0/TrianguloRectangulo.runtimeconfig.json
+/Users/pabloycami/Projects/Calculadora/bin/Debug/net5.0/TrianguloRectangulo.runtimeconfig.dev.json
+/Users/pabloycami/Projects/Calculadora/bin/Debug/net5.0/TrianguloRectangulo.dll
+/Users/pabloycami/Projects/Calculadora/bin/Debug/net5.0/ref/TrianguloRectangulo.dll
+/Users/pabloycami/Projects/Calculadora/bin/Debug/net5.0/TrianguloRectangulo.pdb
+/Users/pabloycami/Projects/Calculadora/obj/Debug/net5.0/TrianguloRectangulo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pabloycami/Projects/Calculadora/obj/Debug/net5.0/TrianguloRectangulo.AssemblyInfoInputs.cache
+/Users/pabloycami/Projects/Calculadora/obj/Debug/net5.0/TrianguloRectangulo.AssemblyInfo.cs
+/Users/pabloycami/Projects/Calculadora/obj/Debug/net5.0/TrianguloRectangulo.csproj.CoreCompileInputs.cache
+/Users/pabloycami/Projects/Calculadora/obj/Debug/net5.0/TrianguloRectangulo.dll
+/Users/pabloycami/Projects/Calculadora/obj/Debug/net5.0/ref/TrianguloRectangulo.dll
+/Users/pabloycami/Projects/Calculadora/obj/Debug/net5.0/TrianguloRectangulo.pdb
+/Users/pabloycami/Projects/Calculadora/obj/Debug/net5.0/TrianguloRectangulo.genruntimeconfig.cache
